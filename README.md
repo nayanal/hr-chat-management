@@ -23,11 +23,13 @@ Project Setup & Installation
  
  npm install  # Install dependencies
  npm start    # Start the backend server (default port: 5000)
+ 
 2.Install & Run the Frontend (React.js)
 
  cd frontend
  npm install  # Install dependencies
  npm start    # Start the frontend server (default port: 3000)
+ 
 3.Set Up PostgreSQL Database
 
 1.	Open pgAdmin and create a new database named chat_management.
@@ -36,6 +38,7 @@ o	pgAdmin: Right-click on the database > Restore > Select chat_management_backup
 4. Environment Variables (.env)
 5. 
  .env file in the backend folder and add:
+
 DB_USER=postgres
 DB_HOST=localhost
 DB_NAME=chat_management
@@ -46,6 +49,7 @@ JWT_SECRET=your_jwt_secret_key
 5.To run backend 
 
 run the commnad node server.js
+
 6.to run frontend
 
 run the command npm start 
