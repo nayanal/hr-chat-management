@@ -70,6 +70,10 @@ ChatBox (Real-Time Messaging)
 •	Previous chat history is visible when opening a conversation.
 •	File attachments can be sent & downloaded.
 
+![Chat Dashboard](https://github.com/nayanal/hr-chat-management/blob/main/screenshots/Capture4.JPG)
+![Chat Dashboard](https://github.com/nayanal/hr-chat-management/blob/main/screenshots/Capture5.JPG)
+
+
 ________________________________________
  API Endpoints
  
