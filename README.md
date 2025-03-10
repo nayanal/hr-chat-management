@@ -61,7 +61,8 @@ HR Dashboard (UniBox)
 •	Includes filters (Pending Replies, Follow-up Date, Status, Job Type).
 •	HR can click on a user chat to open the ChatBox and respond.
 
-![Chat Dashboard](https://github.com/nayanal/hr-chat-management/blob/main/screenshots/Capture3.png)
+![Chat Dashboard](https://github.com/nayanal/hr-chat-management/blob/main/screenshots/Capture3.JPG)
+
 
 ChatBox (Real-Time Messaging)
 •	HR & User can send instant messages via WebSockets.
